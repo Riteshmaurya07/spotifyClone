@@ -1,2 +1,2 @@
 # spotifyClone
-Spotify clone using hml and css
+Spotify clone using html and css
